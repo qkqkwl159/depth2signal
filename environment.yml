@@ -3,9 +3,10 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-pip:
-  - opencv-python
-  - torch
-  - torchvision
-  - torchaudio
-  - pandas
+	- pip
+	- pip:
+		- opencv-python
+		- torch
+		- torchvision
+		- torchaudio
+		- pandas
