@@ -25,6 +25,10 @@ conda env create -n environment.yml
 ```
 
 ```shell
+conda activate c2f
+```
+
+```shell
 python3 cam2frame.py
 ```
 
