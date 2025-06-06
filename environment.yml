@@ -1,0 +1,11 @@
+name: c2f
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+pip:
+  - opencv-python
+  - torch
+  - torchvision
+  - torchaudio
+  - pandas
