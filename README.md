@@ -42,7 +42,8 @@ push keyboard 'q' focus on cam window
 
 ![result](/result/depth_data_compare.png)
 
-![result2](/result/outlliner_/webcam_feed.avi)
+On Vedio
+![result2](/result/outlliner_/webcam_feed.gif)
 
 
 
