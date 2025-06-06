@@ -21,7 +21,7 @@ git clone https://github.com/isl-org/MiDaS.git
 conda excute on base
 
 ```shell
-conda env create -n environment.yml
+conda env create -f environment.yml
 ```
 
 ```shell
